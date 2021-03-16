@@ -13,8 +13,7 @@ Global data: same as local data, but for the whole world
 
 World map: map of the world with countries colored according to the current pandemic situation
 
-![alt text](https://github.com/Leszczon/covid-web-app/blob/main/images/map_wyglad.png)
-<img src="https://github.com/Leszczon/covid-web-app/blob/main/images/map_wyglad.png" width="100" height="100">
+<img src="https://github.com/Leszczon/covid-web-app/blob/main/images/map_wyglad.png" width="500" height="200">
 
 Predictions: place for experiments with predictions - you can choose a country, number of past days to teach the model, number of the future days displayed and one out of three epidemic models: SIR, SIRD and SEIRD
 
