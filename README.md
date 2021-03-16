@@ -3,11 +3,11 @@ Plotly Dash application for visualisation &amp; prediction of COVID-19 data.
 
 Made for an engineering thesis at the Warsaw University of Technology.
 
-Look of the app:
+Main page:
 
 ![alt text](https://github.com/Leszczon/covid-web-app/blob/main/images/wyglad.png)
 
-Local data: graph, histogram and table regarding cases, deaths and recoveries in a chosen country
+Local data: graph, histogram and table regarding cases, deaths and recoveries in a chosen country (as shown on main page)
 
 Global data: same as local data, but for the whole world
 
