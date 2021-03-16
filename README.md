@@ -11,7 +11,7 @@ Local data: graph, histogram and table regarding cases, deaths and recoveries in
 
 Global data: same as local data, but for the whole world
 
-World map: map of the world with countries colored according to the current pandemic situation
+World map: map of the world with countries colored according to the current pandemic situation (can choose cases, deaths or recoveries)
 
 ![alt text](https://github.com/Leszczon/covid-web-app/blob/main/images/map_wyglad.png)
 
