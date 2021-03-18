@@ -174,8 +174,6 @@ class Data():
 			recovered_0['Country/Region'] = recovered_0['Country/Region'].str.replace('_',' ')
 			return recovered_0
 		else:
-			print(cases_cpy)
-			print(test)
 			result = pd.merge(cases_cpy, test, on='Country/Region')
 			result = result.rename(columns={s: 'Number', 'country_name': 'Country code'})
 			aggregation_functions = {'Number': 'sum'}
